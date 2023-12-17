@@ -4,3 +4,115 @@ date: {{ .Date }}
 draft: true
 ---
 
+# Previous Week Reflection 
+
+## On a scale between 1 (mindless consumer zombie) and 10 (da Vinci of technology), how much have I used technology for my benefit, rather than it using me?
+
+## On a scale between 1 (rock-bottom depressed) and 10 (jubilant joy), and 7 not existing, Am I happy doing what I'm doing now?
+
+## This past week, what have I done to build the life I want?
+
+## This past week, whose opinions steered my course?
+
+## This past week, how often did I do things I actively enjoyed? How does this compare to the prior week?
+
+## This past week, what am I doing right now because I think I *SHOULD* do it?
+
+## This past week, how did I give away 10% of my income?
+
+## This past week, what reoccurring questions did I have? Why did I have each question? How can I use my curiosity to explore these questions?
+
+## From Jordan Peterson: Sit on your bed one day, and as yourself, "what remarkably stupid things am I doing on a regular basis to absolutely screw up my life?"
+
+## What small. cheap, dopamine am I settling for? what's teh better alternative that I *could* be developing instead?
+
+## Did you know you can teleport? Change your mindset and watch your environment change, what identities are you still clinging to that's time to let go of?
+
+## Looking at my goals form last week, did I achieve ALL of last week's goals? (yes or no)
+
+## What prevented me from achieving the goals I told myself that I would do?
+
+## What have been my biggest time wasters from last week? What could I be doing instead, to achieve the same goal, and more?
+
+## What have I done to build the life I want?
+
+## 	This past week, what fears did I non-judgementally notice? What's my plan to confront these fears, knowing that it leads to gold?
+
+## What are the mundane, tedious, time-consuming taks that are pulling my attention away from what really matters?
+
+## For which of these tasks does the *completion* matter more than the *quality*?
+
+## How much would it cost for me to hire-out or automate these tasks? Both in what I lose in quality, what I lose in resources, but also in what I gain in life. Careful: make sure I'm not replacing tasks that are actually theraputic in nature or increase my perspective on life (e.g. going to a public gym to hedge against social anxiety; church meetings to hear about what other people are going through compared to my meager issues, etc.)
+
+## Answer this question: knowing my hourly rate, and the fact that TIME is my greatest resource, how can I buy-back time to earn more in money and time?
+
+
+
+
+
+# This Coming Week
+
+## This coming week, what are my obligations for work, at a higher level? What would a successful outcome look like?
+
+## This coming week, what would I do if I knew, with certainty, I would **not fail**?
+
+## This coming week, what would I do **even if** I knew I would fail?
+
+## This coming week, what is my plan to give more than I receive?
+
+## What book am I reading this coming week?
+
+## At a month-level view, What major events do I see coming up?
+
+## At a week-level view, what meetings do I have coming up?
+
+## Whom am I meeting/speaking with this coming week (outside of work)?
+
+## 	When was the last time I took a break?
+
+## What am I doing this weekend to socialize and understand people? Any meetups, business conferences, or volunteering opportunities?
+
+## 	If I could go anywhere for a road trip, where would I want to go?
+
+## What am I doing this weekend to give myself a big-picture perspective on -----?
+
+## How many dates or social encounters will I have with women this coming week?
+
+## Would I marry myself?
+
+## Given (1) I learn exponentially faster from actively interacting with other people (2) I can actively mold the social life I want through experience (3) as a social creature, vices may occur due to an insufficiency of social interaction; how will I incorporate social calibration into my plans? Whom will I meet? What will I do?
+
+## Given I am a visual creature, what luxury things can I see to enhance the vision of the future that I can construct for myself?
+
+## What am I afraid of doing, knowing that if I'm honest about my fears, then I will become fearless through attacking my fears and becoming a man.
+
+## Don't forget: Growth Mindset. Think about how you can apply the growth mindset for this coming week.
+
+## What are some creative (or practical) ways I can **REDUCE** the friction in achieving my goals?
+
+## What are some creative (or practical) ways I can **INCREASE** the friction in my distractions and shameful events?
+
+## How much money am I earning? When will I choose to earn more money? Why did I choose to be poor? When will I choose to be rich?
+
+## How is my career going? When was the last time I was promoted?
+
+## Review your "fears" section under "Who am I" section; is there something you're not confronting that you should be?
+
+## What does my social circle look like? With whom am I interacting a lot (in order)?
+
+## I am what I attract. What do these people reflect/say about me? What do each of these people have in common?
+
+## Name 3 friends who (1) I can call in 3 in the morning to drive me to the hospital, no questions asked (2) will help supervise me as I lose conciousness trying drugs or in my most vulterable times (3) Will watch my wife, kids, and money while I'm away (4) will catch me when I go all in on a goal, and might lose myself in the process
+
+## How am I scheduling time to go out and explore what I could be missing?
+
+
+
+
+
+
+
+
+
+
+
