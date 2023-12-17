@@ -97,6 +97,8 @@ draft: true
 
 ## How is my career going? When was the last time I was promoted?
 
+## Will my parents end up in a nursing home? How will I be able to keep my diverse family together? How will I be able to maintain the generational wisdom of my family?
+
 ## Review your "fears" section under "Who am I" section; is there something you're not confronting that you should be?
 
 ## What does my social circle look like? With whom am I interacting a lot (in order)?
