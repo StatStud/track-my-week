@@ -46,6 +46,7 @@ draft: true
 
 ## Answer this question: knowing my hourly rate, and the fact that TIME is my greatest resource, how can I buy-back time to earn more in money and time?
 
+## Looking at my schedule, am I preparing the future me (30s, 40s, 50s) to be prepared to handle the chaos of managing an intimate relationship, the upbringing of children, and the responsibility to handle the waves of chaos that will challenge my health, family, community, and society?
 
 
 
