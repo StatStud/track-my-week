@@ -109,6 +109,18 @@ draft: true
 
 ## How am I scheduling time to go out and explore what I could be missing?
 
+## What is my 5-10-15 year plan?
+
+### At 28 I will:
+
+### At 32 I will:
+
+### At 38 I will:
+
+### At 45 I will:
+
+### At 55 I will
+
 
 
 
