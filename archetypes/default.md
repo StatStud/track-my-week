@@ -24,7 +24,7 @@ draft: true
 
 ## From Jordan Peterson: Sit on your bed one day, and as yourself, "what remarkably stupid things am I doing on a regular basis to absolutely screw up my life?"
 
-## What small. cheap, dopamine am I settling for? what's teh better alternative that I *could* be developing instead?
+## What small. cheap, dopamine am I settling for? what's the better alternative that I *could* be developing instead?
 
 ## Did you know you can teleport? Change your mindset and watch your environment change, what identities are you still clinging to that's time to let go of?
 
@@ -38,11 +38,13 @@ draft: true
 
 ## 	This past week, what fears did I non-judgementally notice? What's my plan to confront these fears, knowing that it leads to gold?
 
-## What are the mundane, tedious, time-consuming taks that are pulling my attention away from what really matters?
+This past week, I noticed I was fearful/hesitant of...
+
+## What are the mundane, tedious, time-consuming tasks that are pulling my attention away from what really matters?
 
 ## For which of these tasks does the *completion* matter more than the *quality*?
 
-## How much would it cost for me to hire-out or automate these tasks? Both in what I lose in quality, what I lose in resources, but also in what I gain in life. Careful: make sure I'm not replacing tasks that are actually theraputic in nature or increase my perspective on life (e.g. going to a public gym to hedge against social anxiety; church meetings to hear about what other people are going through compared to my meager issues, etc.)
+## How much would it cost for me to hire-out or automate these tasks? Both in what I lose in quality, what I lose in resources, but also in what I gain in life. Careful: make sure I'm not replacing tasks that are actually therapeutic in nature or increase my perspective on life (e.g. going to a public gym to hedge against social anxiety; church meetings to hear about what other people are going through compared to my meager issues, etc.)
 
 ## Answer this question: knowing my hourly rate, and the fact that TIME is my greatest resource, how can I buy-back time to earn more in money and time?
 
@@ -58,6 +60,7 @@ draft: true
 ## This coming week, what would I do if I knew, with certainty, I would **not fail**?
 
 ## This coming week, what would I do **even if** I knew I would fail?
+In other words, since the key to success is failure, I will practice getting used to failing by...
 
 ## This coming week, what is my plan to give more than I receive?
 
@@ -68,6 +71,14 @@ draft: true
 ## At a week-level view, what meetings do I have coming up?
 
 ## Whom am I meeting/speaking with this coming week (outside of work)?
+
+## Zoom-out: How am I doing in each of the following universes?
+
+- Finances
+- Faith
+- Fitness
+- Family
+- Friends
 
 ## 	When was the last time I took a break?
 
