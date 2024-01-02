@@ -13,6 +13,10 @@ ShowCodeCopyButtons: true
 
 # Previous Week Reflection 
 
+## How old am I today?
+
+## Am I were I wished older me would be by now? 
+
 ## On a scale between 1 (mindless consumer zombie) and 10 (da Vinci of technology), how much have I used technology for my benefit, rather than it using me?
 
 ## On a scale between 1 (rock-bottom depressed) and 10 (jubilant joy), and 7 not existing, Am I happy doing what I'm doing now?
