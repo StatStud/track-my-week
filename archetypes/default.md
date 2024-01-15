@@ -72,6 +72,8 @@ This past week, I noticed I was fearful/hesitant of...
 
 # This Coming Week
 
+## This coming week, what can I do to make this an 8/10? 9/10? 10/10? In other words, what are my SMART goals for this week?
+
 ## This coming week, what are my obligations for work, at a higher level? What would a successful outcome look like?
 
 ## This coming week, what would I do if I knew, with certainty, I would **not fail**?
