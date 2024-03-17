@@ -23,7 +23,7 @@ ShowCodeCopyButtons: true
 
 ### Am I were I wished older me would be by now? 
 
-### On a scale between 1 (mindless consumer zombie) and 10 (da Vinci of technology), how much have I used technology for my benefit, rather than it using me?
+### On a scale between 1 (mindless consumer zombie) and 10 (da Vinci of technology), excluding 7, how much have I used technology for my benefit, rather than it using me?
 
 ### What is my total screen time? What is the screen time distribution?
 
@@ -61,7 +61,11 @@ This past week, I noticed I was fearful/hesitant of...
 
 ### What are the mundane, tedious, time-consuming tasks that are pulling my attention away from what really matters?
 
-### For which of these tasks does the *completion* matter more than the *quality*?
+What really matters is...
+
+The small things that take my attention away are...
+
+### For which of these tasks above does the *completion* matter more than the *quality*?
 
 ### How much would it cost for me to hire-out or automate these tasks? Both in what I lose in quality, what I lose in resources, but also in what I gain in life. Careful: make sure I'm not replacing tasks that are actually therapeutic in nature or increase my perspective on life (e.g. going to a public gym to hedge against social anxiety; church meetings to hear about what other people are going through compared to my meager issues, etc.)
 
@@ -75,9 +79,13 @@ This past week, I noticed I was fearful/hesitant of...
 
 ### What is my savings rate for this month?
 
+### If less than 50%, where is most of your money going?
+
 ### How much did my Cash Net worth change?
 
 ### What are some of the major differences in what I budgeted, versus what I actually spent?
+
+### What's the smallest, yet most practical step I can ACTUALLY take that would make a long-term difference in my budget deficit?
 
 
 
@@ -112,11 +120,11 @@ In other words, since the key to success is failure, I will practice getting use
 - Family
 - Friends
 
-### 	When was the last time I took a break?
+### When was the last time I took a break?
 
 ### What am I doing this weekend to socialize and understand people? Any meetups, business conferences, or volunteering opportunities?
 
-### 	If I could go anywhere for a road trip, where would I want to go?
+### If I could go anywhere for a road trip, where would I want to go?
 
 ### What am I doing this weekend to give myself a big-picture perspective on -----?
 
