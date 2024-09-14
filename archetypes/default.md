@@ -11,6 +11,15 @@ cover:
 ShowCodeCopyButtons: true
 ---
 
+
+# Essential
+
+## What do I want?
+
+## Where am I going?
+
+## Why do I get up every morning to go to work?
+
 # Previous Week Reflection 
 
 ## General
@@ -173,6 +182,14 @@ Side note: if people ask you where you see yourself in the future, and you genui
 
 #### At 55 I will
 
+# A final note to myself
+
+Review your essential questions above (at the very beginning of this document).
+Are your actions in alignment with where you want to go?
+
+Look at your environment and ask yourself "what kind of person would this environment create?"
+
+If you don't like the answer, change your environment or lose your dream.
 
 
 
